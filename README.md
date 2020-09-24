@@ -7,3 +7,5 @@ Flex с base auto не считается за конкретную высоту
 IE не позволяет растянуть элемент как heigh 100% с помощью display flex row.
 
 Если сделать preventDefault на mousedown, то blur не произойдет, а click произойдет.
+
+::first-letter работает только на блочных элементах
